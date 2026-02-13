@@ -1,83 +1,45 @@
+##  YouTube Content Growth Analytics
 
-# YouTube Analytics Project — Channel Growth & Engagement Insights 
+##  Project Overview
 
-## Business Problem
-YouTube creators need to understand what type of content drives:
-- Higher views
-- Better engagement
-- Subscriber growth
-- Longer watch time
+This project analyzes YouTube video performance to identify strategies that improve audience engagement and subscriber growth using Python, SQL, and Power BI.
 
-This project analyzes YouTube video performance data to identify
-**content strategy and growth optimization insights**.
+---
 
-## Tools & Technologies Used
-- Python (Pandas, Matplotlib, Seaborn) — EDA & feature creation
-- SQL — KPI and growth analysis
-- Power BI — Interactive dashboard & reporting
-- GitHub — Version control and portfolio hosting
+##  Business Objective
 
-## Project Structure
+• Improve subscriber conversion rate  
+• Identify high-performing content categories  
+• Optimize publishing schedule  
+• Maximize audience engagement  
 
-youtube-analytics/
-│
-├── data/ # YouTube video dataset
-├── sql/ # SQL KPI queries
-├── notebooks/ # Python EDA notebook
-├── powerbi/ # Power BI dashboard
-└── README.md
+---
 
+##  Tools & Technologies
 
-##  Key Metrics Analyzed
-- Views
-- Likes & Comments
-- Engagement Rate
-- Watch Time
-- Subscribers Gained
-- Publish Day & Category Performance
+• Python (Pandas, NumPy, Matplotlib, Seaborn)  
+• SQL (SQLite)  
+• Power BI  
 
-##  Key Insights
+---
 
-### Content Performance
-- **Education and Entertainment** categories drive the highest views
-- Videos with higher **engagement rate** gain more subscribers
+##  Key KPIs Calculated
 
-### Best Publishing Strategy
-- **Weekend uploads (Saturday & Sunday)** receive higher average views
-- Consistent publishing improves engagement
+• Engagement Rate  
+• Subscriber Conversion Rate  
+• Watch Time Efficiency  
+• Category Performance  
 
-### Subscriber Growth
-- Some videos convert viewers to subscribers more efficiently
-- Engagement rate is a better growth signal than views alone
+---
+
+## Power BI Dashboard Preview
 
 
-### Python EDA:
-- Calculated engagement rate
-- Analyzed views by category and publish day
-- Visualized views vs subscriber growth
-- Identified top-performing videos
+![YouTube Dashboard](powerbi/Screenshot01.png)
+![Youtube Dashboard](powerbi/Screenshot02.png)
 
-### SQL Analysis:
-- Channel-level KPIs
-- Engagement efficiency ranking
-- Subscriber conversion analysis
-- Best publishing day insights
+---
 
+##  Business Impact
 
-## Power BI Dashboard Highlights
-
-The interactive dashboard shows:
-- Total Views & Subscribers
-- Engagement Rate KPI
-- Views & Subscribers by Category
-- Best Day to Publish
-- Top Performing Videos
-
-
-## Business Recommendations
-
-- Focus more on **Education & Entertainment** content
-- Publish videos on **weekends**
-- Optimize titles and thumbnails to increase engagement
-- Prioritize videos with higher engagement for growth
-
+Helps content creators improve channel growth using data-driven insights.
