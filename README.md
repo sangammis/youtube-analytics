@@ -37,7 +37,9 @@ This project analyzes YouTube video performance to identify strategies that impr
 
 ![YouTube Dashboard](powerbi/Screenshot01.png)
 ![Youtube Dashboard](powerbi/Screenshot02.png)
-
+![YouTube Dashboard](powerbi/Screenshot03.png)
+![YouTube Dashboard](powerbi/Screenshot04.png)
+![YouTube Dashboard](powerbi/Screenshot05.png)
 ---
 
 ##  Business Impact
